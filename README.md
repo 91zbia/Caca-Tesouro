@@ -5,13 +5,13 @@ a proposta é simples: encontrar o tesouro escondido em um tabuleiro 5x5 antes q
 
 ---
 
-## objetivo
+## Objetivo
 descobrir a posição do tesouro em até sete tentativas.  
 a cada jogada, o jogador informa linha e coluna e recebe uma dica indicando se o tesouro está mais acima, abaixo, à esquerda ou à direita.
 
 ---
 
-## como jogar
+## Como jogar
 1. verifique se o python 3 está instalado.  
 2. execute o arquivo no terminal:
    ```bash
